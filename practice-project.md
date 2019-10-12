@@ -1,7 +1,7 @@
 build-lists: true
 
 
-# We **nerd** community
+# We ~~NEED~~ **nerd** community
 
 ---
 
@@ -33,9 +33,6 @@ build-lists: true
 
 ![inline](https://media.giphy.com/media/YjkpQBAmu7YAm1HI08/giphy.gif)
 
-- Maybe mention other people's names you met that night
-- Say you embarrassingly took notes and was so excited
-
 ---
 
 # 4 months later, we are up here giving lighting talks, and it means the world to me
@@ -44,10 +41,11 @@ build-lists: true
 
 ---
 
-# Why does it "mean the world to me" 🤔 
+# Why do we ~~NEED~~ **nerd** community? 🤔 
 
 - These people become actual friends in real life
 - Good for mental and emotional health
+- Inspires us to level up and try new things
 - Share perspectives and help each other learn
 - The whole is greater than the sum of its parts
 
@@ -66,9 +64,15 @@ build-lists: true
 # Some questions..
 
 - Geographic challenges
-- Is the focus tech, startups, or something else?
+- Is the focus tech, business, or something else?
+- Meetup vs non-Meetup
+- Sharing ownership and organization
 
 ----
 
 # In conclusion:
-# We definitely **nerd** community!
+# We ~~NEED~~ **nerd** community!
+
+----
+
+# @seanhelvey
